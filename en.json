@@ -226,5 +226,7 @@
  "init": "Initializing...",
  "initFinish": "Init finish",
  "waitUpgradeFinish": "Please wait for the previous task to complete",
- "getVersion": "Getting version..."
+ "getVersion": "Getting version...",
+ "checkAppVersion": "Check For App Updates",
+ "checkAppletVersion": "Check For Applet Updates"
 }

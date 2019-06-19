@@ -227,5 +227,7 @@
   "init": "正在初始化...",
   "initFinish": "初始化完成",
   "waitUpgradeFinish": "请先等待上一个任务完成",
-  "getVersion": "获取版本号中..."
+  "getVersion": "获取版本号中...",
+  "checkAppVersion": "检查App更新",
+  "checkAppletVersion": "检查Applet更新"
 }
