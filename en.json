@@ -113,6 +113,7 @@
  "getAddressError": "Get address failed",
  "hasConnected": "The device is connected",
  "saveAddress": "Save address onto the device",
+ "saveAccount": "Save account onto the device",
  "totalValue": "Total Value",
  "newWallet": "New Wallet",
  "add": "ADD",

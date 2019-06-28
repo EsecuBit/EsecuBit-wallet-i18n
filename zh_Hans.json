@@ -114,6 +114,7 @@
   "getAddressError": "获取地址失败",
   "hasConnected": "设备已被连接",
   "saveAddress": "保存地址在设备上",
+  "saveAccount": "保存账户名在设备上",
   "totalValue": "总金额",
   "newWallet": "新建钱包",
   "add": "添加",
