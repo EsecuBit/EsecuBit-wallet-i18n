@@ -232,5 +232,6 @@
  "getVersion": "Getting version...",
  "checkAppVersion": "Check For App Updates",
  "checkAppletVersion": "Check For Applet Updates",
- "rebootTip": "Please restart the hardware after the upgrade is complete."
+ "rebootTip": "Please restart the hardware after the upgrade is complete.",
+ "ramManage": "RAM Manage"
 }
