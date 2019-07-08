@@ -235,5 +235,7 @@
  "rebootTip": "Please restart the hardware after the upgrade is complete.",
  "ramManage": "RAM Manage",
  "checkAddress": "Check Address",
- "checkAccount": "Check Account"
+ "checkAccount": "Check Account",
+ "gettingAddress": "Getting Address...",
+ "gettingAccount": "Getting Account..."
 }
