@@ -113,8 +113,8 @@
  "emptyGasPriceError": "GasPrice cannot be empty",
  "getAddressError": "Get address failed",
  "hasConnected": "The device is connected",
- "saveAddress": "Save address onto the device",
- "saveAccount": "Save account onto the device",
+ "saveAddress": "Save Address",
+ "saveAccount": "Save Account",
  "totalValue": "Total Value",
  "newWallet": "New Wallet",
  "add": "ADD",
@@ -233,5 +233,7 @@
  "checkAppVersion": "Check For App Updates",
  "checkAppletVersion": "Check For Applet Updates",
  "rebootTip": "Please restart the hardware after the upgrade is complete.",
- "ramManage": "RAM Manage"
+ "ramManage": "RAM Manage",
+ "checkAddress": "Check Address",
+ "checkAccount": "Check Account"
 }

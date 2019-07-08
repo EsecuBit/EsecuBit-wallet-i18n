@@ -234,6 +234,7 @@
   "checkAppVersion": "检查App更新",
   "checkAppletVersion": "检查Applet更新",
   "rebootTip": "请在升级完成后，将硬件重启",
-  "ramManage": "内存管理"
-
+  "ramManage": "内存管理",
+  "checkAddress": "检查地址",
+  "checkAccount": "检查账户"
 }
