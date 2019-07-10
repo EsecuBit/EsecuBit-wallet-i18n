@@ -237,5 +237,7 @@
  "checkAddress": "Check Address",
  "checkAccount": "Check Account",
  "gettingAddress": "Getting Address...",
- "gettingAccount": "Getting Account..."
+ "gettingAccount": "Getting Account...",
+ "voted": "Voted",
+ "notAllowVoteProxyAndBP": "Cannot vote for producers and proxy at same time"
 }
