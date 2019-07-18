@@ -239,5 +239,6 @@
  "gettingAddress": "Getting Address...",
  "gettingAccount": "Getting Account...",
  "voted": "Voted",
- "notAllowVoteProxyAndBP": "Cannot vote for producers and proxy at same time"
+ "notAllowVoteProxyAndBP": "Cannot vote for producers and proxy at same time",
+ "deviceLowBattery": "Device low battery"
 }
