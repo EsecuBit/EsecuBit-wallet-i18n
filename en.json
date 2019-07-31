@@ -240,5 +240,6 @@
  "gettingAccount": "Getting Account...",
  "voted": "Voted",
  "notAllowVoteProxyAndBP": "Cannot vote for producers and proxy at same time",
- "deviceLowBattery": "Device low battery"
+ "deviceLowBattery": "Device low battery",
+ "deviceDisplayFailed": "Device screen display failed"
 }

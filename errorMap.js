@@ -16,6 +16,7 @@ export const errorMap = {
   116: 'deviceConditionNotSatisfied',
   117: 'pinIsLocked',
   118: 'deviceLowBattery',
+  119: 'deviceDisplayFailed',
   201: 'databaseOpenFailed',
   202: 'databaseExecFailed',
   301: 'lastAccountNoTransaction',
