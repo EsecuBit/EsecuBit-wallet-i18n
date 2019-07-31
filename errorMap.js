@@ -49,6 +49,7 @@ export const errorMap = {
   612: 'keyNotMatch', // for eos,
   701: 'offlineModeNotAllowed',
   702: 'offlineModeUnnecessary',
+  8001: 'transactionTooLong',
   10000: 'notImplemented',
   10001: 'unknown',
   10002: 'coinNotSupported'

@@ -242,5 +242,6 @@
   "voted": "已投",
   "notAllowVoteProxyAndBP": "不能同时投票给代理和节点",
   "deviceLowBattery": "设备电量低",
-  "deviceDisplayFailed": "设备显示失败"
+  "deviceDisplayFailed": "设备显示失败",
+  "transactionTooLong": "交易报文过长"
 }

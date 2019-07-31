@@ -241,5 +241,6 @@
  "voted": "Voted",
  "notAllowVoteProxyAndBP": "Cannot vote for producers and proxy at same time",
  "deviceLowBattery": "Device low battery",
- "deviceDisplayFailed": "Device screen display failed"
+ "deviceDisplayFailed": "Device screen display failed",
+ "transactionTooLong": "Transaction data too long"
 }
