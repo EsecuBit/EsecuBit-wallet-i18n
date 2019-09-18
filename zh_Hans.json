@@ -243,5 +243,7 @@
   "notAllowVoteProxyAndBP": "不能同时投票给代理和节点",
   "deviceLowBattery": "设备电量低",
   "deviceDisplayFailed": "设备显示失败",
-  "transactionTooLong": "交易报文过长"
+  "transactionTooLong": "交易报文过长",
+  "refund": "手动赎回",
+  "refundTip": "若正常赎回抵押的EOS后72小时内没有到账，请重新手动赎回"
 }

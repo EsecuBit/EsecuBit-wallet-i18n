@@ -242,5 +242,7 @@
  "notAllowVoteProxyAndBP": "Cannot vote for producers and proxy at same time",
  "deviceLowBattery": "Device low battery",
  "deviceDisplayFailed": "Device screen display failed",
- "transactionTooLong": "Transaction data too long"
+ "transactionTooLong": "Transaction data too long",
+ "refund": "refund",
+ "refundTip": "If the account is not received within 72 hours after undelegating EOS, please refund it manually."
 }
