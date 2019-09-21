@@ -243,6 +243,13 @@
  "deviceLowBattery": "Device low battery",
  "deviceDisplayFailed": "Device screen display failed",
  "transactionTooLong": "Transaction data too long",
- "refund": "refund",
- "refundTip": "If the account is not received within 72 hours after undelegating EOS, please refund it manually."
+ "refund": "Refund",
+ "refundNotAvaliable": "Refund is not available yet",
+ "refundTip": "If the account is not received within 72 hours after undelegating EOS, please refund it manually.",
+ "upgradeManagerAppletTip": "After the upgrade, the language defaults to English. Please go to the menu interface to select the language and reset the required Chinese and English.",
+ "networkConnectTimeout": "Network connect timeout",
+ "updateAuth": "Update Auth",
+ "inputPubKeyTip": "Please enter the public key to which you want to update permissions",
+ "delete": "Delete",
+ "noPermissionCanbeUpdate": "No permission can be update"
 }

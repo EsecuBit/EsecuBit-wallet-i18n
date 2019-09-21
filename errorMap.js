@@ -21,6 +21,7 @@ export const errorMap = {
   202: 'databaseExecFailed',
   301: 'lastAccountNoTransaction',
   302: 'accountHasTransactions',
+  400: "networkConnectTimeout",
   401: 'networkUnavailable',
   402: 'networkNotInitialized',
   403: 'networkProviderError',

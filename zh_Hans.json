@@ -245,5 +245,12 @@
   "deviceDisplayFailed": "设备显示失败",
   "transactionTooLong": "交易报文过长",
   "refund": "手动赎回",
-  "refundTip": "若正常赎回抵押的EOS后72小时内没有到账，请重新手动赎回"
+  "refundNotAvaliable": "暂无可用的赎回",
+  "refundTip": "若正常赎回抵押的EOS后72小时内没有到账，请重新手动赎回",
+  "upgradeManagerAppletTip": "升级后默认英文，请到菜单界面选择语言，重新设置所需的中英文",
+  "networkConnectTimeout": "网络连接超时",
+  "updateAuth": "更新权限",
+  "inputPubKeyTip": "请输入要更新权限的公钥",
+  "delete": "删除",
+  "noPermissionCanbeUpdate": "没有权限可以更新"
 }
