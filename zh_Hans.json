@@ -252,5 +252,12 @@
   "updateAuth": "更新权限",
   "inputPubKeyTip": "请输入要更新权限的公钥",
   "delete": "删除",
-  "noPermissionCanbeUpdate": "没有权限可以更新"
+  "noPermissionCanbeUpdate": "没有权限可以更新",
+  "waits": "等待时间",
+  "accounts": "账号",
+  "weight": "权重",
+  "parentPermission": "父权限",
+  "threshold": "阈值",
+  "permissionName": "权限名"
+ 
 }

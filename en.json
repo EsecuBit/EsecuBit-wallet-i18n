@@ -251,5 +251,12 @@
  "updateAuth": "Update Auth",
  "inputPubKeyTip": "Please enter the public key to which you want to update permissions",
  "delete": "Delete",
- "noPermissionCanbeUpdate": "No permission can be update"
+ "noPermissionCanbeUpdate": "No permission can be update",
+ "waits": "Waits",
+ "accounts": "Accounts",
+ "weight": "Weight",
+ "parentPermission": "Parent",
+ "threshold": "Threshold",
+ "permissionName": "Permission Name"
+
 }
