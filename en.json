@@ -257,6 +257,6 @@
  "weight": "Weight",
  "parentPermission": "Parent",
  "threshold": "Threshold",
- "permissionName": "Permission Name"
-
+ "permissionName": "Permission Name",
+ "refundRequestNotFound": "Refund request not found"
 }

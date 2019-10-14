@@ -258,6 +258,6 @@
   "weight": "权重",
   "parentPermission": "父权限",
   "threshold": "阈值",
-  "permissionName": "权限名"
- 
+  "permissionName": "权限名",
+  "refundRequestNotFound": "暂未找到可赎回的请求"
 }

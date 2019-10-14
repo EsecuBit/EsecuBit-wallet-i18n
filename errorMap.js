@@ -31,6 +31,7 @@ export const errorMap = {
   407: 'networkValueTooSmall',
   408: 'networkGasTooLow',
   409: 'networkGasPriceTooLow',
+  410: 'refundRequestNotFound',
   450: 'networkEosTokenNotFound',
   451: 'networkEosTxExpired',
   452: 'networkEosUnsatisfiedAuth',
