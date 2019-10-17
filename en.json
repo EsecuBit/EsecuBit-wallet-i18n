@@ -258,5 +258,6 @@
  "parentPermission": "Parent",
  "threshold": "Threshold",
  "permissionName": "Permission Name",
- "refundRequestNotFound": "Refund request not found"
+ "refundRequestNotFound": "Refund request not found",
+ "accountNotExist": "Account name not exist"
 }

@@ -52,6 +52,7 @@ export const errorMap = {
   701: 'offlineModeNotAllowed',
   702: 'offlineModeUnnecessary',
   8001: 'transactionTooLong',
+  8005: 'accountNotExist',
   10000: 'notImplemented',
   10001: 'unknown',
   10002: 'coinNotSupported'

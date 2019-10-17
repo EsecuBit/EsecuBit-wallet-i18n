@@ -259,5 +259,6 @@
   "parentPermission": "父权限",
   "threshold": "阈值",
   "permissionName": "权限名",
-  "refundRequestNotFound": "暂未找到可赎回的请求"
+  "refundRequestNotFound": "暂未找到可赎回的请求",
+  "accountNotExist": "账户名不存在"
 }
