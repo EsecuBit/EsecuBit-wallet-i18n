@@ -259,5 +259,6 @@
  "threshold": "Threshold",
  "permissionName": "Permission Name",
  "refundRequestNotFound": "Refund request not found",
- "accountNotExist": "Account name not exist"
+ "accountNotExist": "Account name not exist",
+ "confirmTip": "Please check the information on the device"
 }
