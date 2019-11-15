@@ -260,5 +260,10 @@
  "permissionName": "Permission Name",
  "refundRequestNotFound": "Refund request not found",
  "accountNotExist": "Account name not exist",
- "confirmTip": "Please check the information on the device"
+ "confirmTip": "Please check the information on the device",
+ "ramNotEnough": "Account using more than allotted RAM usage",
+ "networkNotEnough": "Transaction exceeded the current network usage limit imposed on the transaction",
+ "networkOveruse": "Transaction network usage is too much for the remaining allowable usage of the current block",
+ "cpuNotEnough": "Transaction exceeded the current CPU usage limit imposed on the transaction",
+ "cpuOveruse": "Transaction CPU usage is too much for the remaining allowable usage of the current block"
 }

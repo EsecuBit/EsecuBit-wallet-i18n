@@ -261,5 +261,10 @@
   "permissionName": "权限名",
   "refundRequestNotFound": "暂未找到可赎回的请求",
   "accountNotExist": "账户名不存在",
-  "confirmTip": "请核对设备上的交易信息"
+  "confirmTip": "请核对设备上的交易信息",
+  "ramNotEnough": "内存不足",
+  "networkNotEnough": "网络资源不足",
+  "networkOveruse": "网络资源占用过高",
+  "cpuNotEnough": "CPU时长不足",
+  "cpuOveruse": "CPU时长占用过高"
 }
