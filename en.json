@@ -144,6 +144,7 @@
  "stake": "Stake",
  "unstake": "UnStake",
  "vote": "Vote",
+ "cancelVote": "Cancel vote",
  "ramTransaction": "Buy/Sell RAM",
  "buy": "Buy",
  "sell": "Sell",

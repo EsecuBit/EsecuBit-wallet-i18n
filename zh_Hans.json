@@ -145,6 +145,7 @@
   "stake": "抵押",
   "unstake": "赎回",
   "vote": "投票",
+  "cancelVote": "取消投票",
   "ramTransaction": "售买内存",
   "buy": "购买",
   "sell": "出售",
