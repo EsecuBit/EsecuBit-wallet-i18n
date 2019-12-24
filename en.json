@@ -269,5 +269,5 @@
  "cpuOveruse": "Transaction CPU usage is too much for the remaining allowable usage of the current block",
  "keyIsExist": "Key is exist",
  "upgradeLibTip": "Upgrading this lib will lost your primary key, please make sure that you have backup your mnemonic code and reboot your wallet when upgrading completely",
- "attension": "Attension"
+ "attention": "Attention"
 }
