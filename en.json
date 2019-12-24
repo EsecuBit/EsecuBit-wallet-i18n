@@ -267,5 +267,7 @@
  "networkOveruse": "Transaction network usage is too much for the remaining allowable usage of the current block",
  "cpuNotEnough": "Transaction exceeded the current CPU usage limit imposed on the transaction",
  "cpuOveruse": "Transaction CPU usage is too much for the remaining allowable usage of the current block",
- "keyIsExist": "Key is exist"
+ "keyIsExist": "Key is exist",
+ "upgradeLibTip": "Upgrading this lib will lost your primary key, please make sure that you have backup your mnemonic code and reboot your wallet when upgrading completely",
+ "attension": "Attension"
 }
