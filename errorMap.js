@@ -54,6 +54,7 @@ export const errorMap = {
   610: 'invalidPrivateKey', // for eos
   611: 'multipleAccounts', // for eos
   612: 'keyNotMatch', // for eos,
+  613: 'keyIsExist', // for eos
   701: 'offlineModeNotAllowed',
   702: 'offlineModeUnnecessary',
   8001: 'transactionTooLong',

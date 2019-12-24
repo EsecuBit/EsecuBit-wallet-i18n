@@ -266,5 +266,6 @@
  "networkNotEnough": "Transaction exceeded the current network usage limit imposed on the transaction",
  "networkOveruse": "Transaction network usage is too much for the remaining allowable usage of the current block",
  "cpuNotEnough": "Transaction exceeded the current CPU usage limit imposed on the transaction",
- "cpuOveruse": "Transaction CPU usage is too much for the remaining allowable usage of the current block"
+ "cpuOveruse": "Transaction CPU usage is too much for the remaining allowable usage of the current block",
+ "keyIsExist": "Key is exist"
 }

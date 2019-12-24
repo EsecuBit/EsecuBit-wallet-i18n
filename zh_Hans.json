@@ -267,5 +267,6 @@
   "networkNotEnough": "网络资源不足",
   "networkOveruse": "网络资源占用过高",
   "cpuNotEnough": "CPU时长不足",
-  "cpuOveruse": "CPU时长占用过高"
+  "cpuOveruse": "CPU时长占用过高",
+  "keyIsExist": "权限已存在"
 }
