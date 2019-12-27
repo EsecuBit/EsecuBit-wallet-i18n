@@ -270,5 +270,6 @@
   "cpuOveruse": "CPU时长占用过高",
   "keyIsExist": "权限已存在",
   "upgradeLibTip": "升级此库将丢失您的密钥，请确保在升级前已备份助记词并在升级完成后重新启动钱包",
-  "attention": "请注意"
+  "attention": "请注意",
+  "voteProducerTooMuchTip": "投票节点不能超过15个"
 }
