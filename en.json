@@ -270,5 +270,6 @@
  "keyIsExist": "Key is exist",
  "upgradeLibTip": "Upgrading this lib will lost your primary key, please make sure that you have backup your mnemonic code and reboot your wallet when upgrading completely",
  "attention": "Attention",
- "voteProducerTooMuchTip": "Voting producer amount cannot exceed 15"
+ "voteProducerTooMuchTip": "Voting producer amount cannot exceed 15",
+ "offlineModeNotAllowed": "not allow to enter offline mode"
 }
